@@ -280,4 +280,4 @@ Este projeto foi desenvolvido inicialmente como um MVP para validação de fluxo
 
 ## Licença
 
-Este projeto ainda não possui uma licença definida.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
